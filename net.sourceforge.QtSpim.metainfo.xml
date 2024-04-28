@@ -11,6 +11,11 @@
   <description>
     <p>QtSpim is a self-contained simulator that runs MIPS32 programs. It reads and executes assembly language programs written for this processor. QtSpim also provides a simple debugger and minimal set of operating system services.</p>
   </description>
+    <categories>
+      <category>Development</category>
+      <category>Debugger</category>
+      <category>Emulator</category>
+  </categories>
   <screenshots>
     <screenshot type="default">
       <image type="source">https://a.fsdn.com/con/app/proj/spimsimulator/screenshots/313041.jpg/max/max/1</image>
